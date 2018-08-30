@@ -1,3 +1,11 @@
+# Kyle's First CS193 Lab!
+
+CS 193, despite what it seems, is pretty cool. Here's why:
+
+- It's designed to help me out with CS 180, which is a pretty difficult class. Not only that, it's worth 1 credit hour.
+- TA's will be there to answer most CS questions I might have. These are people that have already gone through what I am going through right now. Use them to your advantage.
+- Who doesn't like an easy A?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
