@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Google
+Need to search something on the internet? Here's a website that _absolutely no one_ knows about. It's called Google. You should probably google it at some point.
+
+[If you're too lazy, here's the link anyway](https://www.google.com).
